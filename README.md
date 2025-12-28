@@ -1,22 +1,22 @@
-## 👋 Hi there! I'm a Backend Developer
+## Hi there! I'm a Backend Developer
 
-### 🛠 Tech Stack
+### Tech Stack
 
-#### 🔹 Backend
+#### Backend
 - **Python** | FastAPI, Flask
 - **Databases & ORM**: SQLAlchemy, PostgreSQL, SQLite, MySQL, MSSQL
 - **APIs**: REST, WebSockets
 
-#### 🎨 Frontend (Basic Skills)
+#### Frontend (Basic Skills)
 - **Technologies**: HTML, CSS, JavaScript
 - **Framework**: Vue.js
 
-#### 🛠 DevOps & Tools
+#### DevOps & Tools
 - **Containerization**: Docker, Docker Compose
 - **Version Control**: Git, GitHub
 - **OS**: Linux, Windows, Potato
 
-#### 🔐 Security & Testing Techs
+#### Security & Testing Techs
 - **Authentication**: JWT, OAuth
 - **Testing**: Pytest, Unittest
 
