@@ -20,9 +20,9 @@
 - **Authentication**: JWT, OAuth
 - **Testing**: Pytest, Unittest
 
-### 🚀 Always Learning
+### Always Learning
 I'm always looking to improve my skills and explore new technologies. Open to new challenges and opportunities for growth.  
 
-### 📫 Get in Touch  
+### Get in Touch  
 - [GitHub](https://github.com/forkenn)
 - [GitLab](https://gitlab.com/OnBell)
